@@ -3,6 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogitun&show_icons=true&theme=radical)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={kunyjf})](https://solved.ac/{kunyjf})
+
 <!--
 **rogitun/rogitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
